@@ -1,9 +1,9 @@
 ---
-title: The Network and the Demos: Big Data & the Epistemic Justifications of Democracy
+title: The Network and the Demos Big Data & the Epistemic Justifications of Democracy
 authors: 
   - name: Dave Kinkead
     email: d.kinkead@uq.edu.au
-  - name: David Douglas
+  - name: David M. Douglas
     email: dmdouglas256@tuta.io
 status: outline
 bibliography: big_data_and_democracy.bib
@@ -164,9 +164,10 @@ The confluence of social media and big data analytics has created new possibilit
 
 Communication technologies have changed remarkably over the time that democratic societies have existed.  Different technologies have created new challenges and opportunities for democracies.  The combination of social media and big data is no different: democracies are adjusting to the new possibilities for narrowcast political messages that they make available.  Only by recognising the risks these new technologies pose to how citizens are informed and may be influenced will the epistemic justifications for democratic societies continue to be compelling.
 
+## References
+
 ---
 nocite: |
-  @plato_gorgias_1997, @plato_sophist_1997
+   @plato_gorgias_1997, @plato_sophist_1997
 ...
 
-## References
